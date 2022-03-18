@@ -6,23 +6,6 @@ import Delete from "./Delete";
 import Form from "./Form";
 export default function Card({title, content, id, deleteTodo, checkTodo, card}) {
 
-    // const [id, setId] = useState(4);
-
-    // const [cards, setCards] = useState(CardList);
-//     {cards.map(
-//     card => (
-//         <Card image={card.image} title={card.title} content={card.content} id={card.id}/>
-//     )
-// )}
-    // const [formDelete, setFormDelete] = useState('');
-
-    // const [card, setCard] = useState("");
-
-    // const HandleDeleteChange = e =>{
-    //     setFormDelete(e.target.value);
-    // }   
-
-    // console.log(cards);
 
     return (
         <div className="col" >

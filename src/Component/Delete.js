@@ -1,8 +1,8 @@
 import React, { Component, useState } from "react";
 import { CardList } from "../Data/CardList";
-import {cards} from "../App.js";
-import {formId} from "./Form";
-import Card from "./Card";
+
+// THIS IS THE FILE OF MY PAIN AND SUFFERING
+// PLEASE PAY IT NO ATTENTION
 
 export default function Deletepost({id}) {
 

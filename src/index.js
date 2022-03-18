@@ -9,8 +9,6 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <Title nb={2}/> */}
-    {/* <Paragraphe text={'Even when I walk through the darkest valley, I will not be afraid.'}/> */}
     <App />
   </React.StrictMode>,
   document.getElementById('root')
