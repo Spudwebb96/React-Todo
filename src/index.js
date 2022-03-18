@@ -2,10 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+// import Title from './Component/Title';
+// import Paragraphe from './Component/Paragraphe';
 import reportWebVitals from './reportWebVitals';
+
 
 ReactDOM.render(
   <React.StrictMode>
+    {/* <Title nb={2}/> */}
+    {/* <Paragraphe text={'Even when I walk through the darkest valley, I will not be afraid.'}/> */}
     <App />
   </React.StrictMode>,
   document.getElementById('root')
